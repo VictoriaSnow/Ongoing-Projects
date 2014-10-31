@@ -1,0 +1,101 @@
+/* Canvas: */
+background: #F3F3F3;
+
+/* EGR_logo 3: */
+-moz-box-shadow:    0px 2px 4px 0px rgba(0,0,0,0.50);
+box-shadow:         0px 2px 4px 0px rgba(0,0,0,0.50);
+
+border-radius: 5px;
+/* Login-box: */
+background: #FFFFFF;
+
+font-family: AvenirNext-Regular;
+font-size: 18px;
+color: #218CA3;
+line-height: 25px;
+/* Forgot password?: */
+
+border-radius: 5px;
+/* Button: */
+background: #FF9430;
+border: 1px solid #F99D1C;
+
+font-family: AvenirNext-Medium;
+font-size: 18px;
+color: #FFFFFF;
+line-height: 25px;
+/* Login: */
+
+border-radius: 5px;
+/* Text-box: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+-moz-box-shadow:    inset 0px 1px 0px 0px #ECECEC;
+box-shadow:         inset 0px 1px 0px 0px #ECECEC;
+
+border-radius: 5px;
+/* Symbol: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+
+/* Imported Layers: */
+background: #999999;
+
+font-family: AvenirNext-Regular;
+font-size: 18px;
+color: #999999;
+line-height: 25px;
+/* Email: */
+
+border-radius: 5px;
+/* Text-box: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+-moz-box-shadow:    inset 0px 1px 0px 0px #ECECEC;
+box-shadow:         inset 0px 1px 0px 0px #ECECEC;
+
+border-radius: 5px;
+/* Symbol: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+
+/* Imported Layers: */
+background: #999999;
+
+font-family: AvenirNext-Regular;
+font-size: 18px;
+color: #999999;
+line-height: 25px;
+/* Password: */
+
+font-family: AvenirNext-Regular;
+font-size: 14px;
+color: #000000;
+line-height: 19px;
+/* Remember me: */
+
+border-radius: 2px;
+/* Check-rectangle: */
+border: 1px solid #CCCCCC;
+
+/* Check: */
+background: #666666;
+
+/* EGR_logo 2: */
+-moz-box-shadow:    0px 4px 4px 0px rgba(0,0,0,0.50);
+box-shadow:         0px 4px 4px 0px rgba(0,0,0,0.50);
+
+font-family: AvenirNext-Regular;
+font-size: 18px;
+color: #585858;
+line-height: 25px;
+/* Don’t have an accoun: */
+
+/* Top-line: */
+background: #FF892E;
+
+font-family: AvenirNext-Regular;
+font-size: 25px;
+color: #686868;
+line-height: 34px;
+/* Sign in: */
